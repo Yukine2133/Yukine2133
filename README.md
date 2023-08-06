@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yukine2133
-- 👀 I’m interested in frontend web development
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Python, Django
 - 📫 How to reach me Telegram: @yukine213
 
