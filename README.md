@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yukine2133
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Python, Django
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me Telegram: @yukine213
 
   <h3 align="left">Languages and Tools I'm Familiar With:</h3>
