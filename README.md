@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yukine2133
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Next.js with server actions and prisma
 - 📫 How to reach me Telegram: @yukine213
 
   <h3 align="left">Languages and Tools I'm Familiar With:</h3>
