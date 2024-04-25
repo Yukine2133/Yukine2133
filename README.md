@@ -52,5 +52,5 @@
 
 
 
-![Yukine213's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&theme=syntwave)
+![Yukine213's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukine2133&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
