@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yukine2133
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 📫 How to reach me Telegram: @yukine213
 
   <h3 align="left">Languages and Tools I'm Familiar With:</h3>
   <p align="left"> 
