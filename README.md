@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yukine2133
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Data Structures & Algorithms
+-  Hi, I’m @Yukine2133
+-  I’m interested in fullstack web development
+-  How to reach me: Telegram @yukine213
 
   <h3 align="left">Languages and Tools I'm Familiar With:</h3>
   <p align="left"> 
@@ -40,6 +40,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Nextjs" width="40" height="40"/> 
+</a> 
+
+
 
 
 
