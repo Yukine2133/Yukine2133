@@ -20,8 +20,10 @@ My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and
 
 ## Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&locale=en&hide=stars,issues,contribs&theme=dracula" alt="" /> | <a href="https://github.com/Yukine2133/twitter-clone" target="_blank" rel="noreferrer"  ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula" alt="" />
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&locale=en&hide=stars,issues,contribs&theme=dracula" alt="" /> | <a href="https://github.com/Yukine2133/twitter-clone" target="_blank" rel="noreferrer"  ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula" alt="" />
 </a>
+</p>
 
 
 
