@@ -1,14 +1,24 @@
--  Hi, I’m @Yukine2133
--  I’m interested in fullstack web development
--  How to reach me: Telegram @yukine213
+## Hi, I'm Yukine213 👋
 
-  <h3 align="left">Languages and Tools I'm Familiar With:</h3>
+
+I've been coding for 2 years, starting with frontend before diving into fullstack development.
+<p>
+  
+My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and when I'm not coding, I'm probably gaming.
+</p>
+
+## Skills
 
 <p >
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,vite,redux,git,mongodb,express,firebase" />
 </p>  
 
 
+
+
+
+
+## Stats
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&locale=en&hide=stars,issues,contribs&theme=dracula" alt="" /> | <a href="https://github.com/Yukine2133/twitter-clone" target="_blank" rel="noreferrer"  ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula" alt="" />
 </a>
