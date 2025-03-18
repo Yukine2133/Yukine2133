@@ -55,10 +55,14 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&locale=en&hide=stars,issues,contribs&theme=dracula" alt="yukine2133" /></p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula)](https://github.com/Yukine2133/twitter-clone)
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukine2133&show_icons=true&locale=en&hide=stars,issues,contribs&theme=dracula" alt="" /> | <a href="https://github.com/Yukine2133/twitter-clone" target="_blank" rel="noreferrer"  ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula" alt="" />
+</a>
+
 
 
 [![Yukine213's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yukine213&hide=css,html,xml,prisma,yaml,bash,ezhil,git&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
