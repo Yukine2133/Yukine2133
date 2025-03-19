@@ -14,7 +14,7 @@ My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and
 </p>  
 
 ## How to reach to me
-<a href="https://t.me/yukine213" target="_blank"><img class="icon"  alt="telegram" width="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" /></a>
+<a href="https://t.me/yukine213" target="_blank" rel="noreferrer" ><img class="icon"  alt="telegram" width="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" /></a>
 
 
 
