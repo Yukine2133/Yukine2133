@@ -35,7 +35,7 @@ My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and
 
 
 
-[![Yukine213's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yukine213&hide=css,html,xml,prisma,yaml,bash,ezhil,git&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Yukine213's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yukine213&hide=html,css&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukine2133&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
