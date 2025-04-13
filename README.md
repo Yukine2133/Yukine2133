@@ -28,6 +28,12 @@ My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and
   <a href="https://github.com/Yukine2133/twitter-clone" target="_blank" rel="noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula" alt="" />
   </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=dev-days&theme=dracula" alt="" />
+  </a>
+   <a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=windows-10-web&theme=dracula" alt="" />
+  </a>
 </div>
 
 
