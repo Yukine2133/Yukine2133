@@ -28,10 +28,10 @@ My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and
   <a href="https://github.com/Yukine2133/twitter-clone" target="_blank" rel="noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=twitter-clone&theme=dracula" alt="" />
   </a>
-  <a>
+  <a href="https://github.com/Yukine2133/dev-days">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=dev-days&theme=dracula" alt="" />
   </a>
-   <a>
+   <a href="https://github.com/Yukine2133/windows-10-web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukine2133&repo=windows-10-web&theme=dracula" alt="" />
   </a>
 </div>
@@ -40,8 +40,6 @@ My main tech stack is Next.js, TypeScript, Tailwind CSS, MongoDB, and Clerk, and
 
 
 
-
-[![Yukine213's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yukine213&hide=html,css&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukine2133&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
